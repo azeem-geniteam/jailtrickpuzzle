@@ -1,0 +1,55 @@
+ManifestFileVersion: 0
+CRC: 3846003367
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: level_42_44
+      Dependencies: {}
+    Info_1:
+      Name: level_6_8
+      Dependencies: {}
+    Info_2:
+      Name: level_18_20
+      Dependencies: {}
+    Info_3:
+      Name: level_39_41
+      Dependencies: {}
+    Info_4:
+      Name: level_9_11
+      Dependencies: {}
+    Info_5:
+      Name: level_24_26
+      Dependencies: {}
+    Info_6:
+      Name: level_15_17
+      Dependencies: {}
+    Info_7:
+      Name: level_12_14
+      Dependencies: {}
+    Info_8:
+      Name: level_36_38
+      Dependencies: {}
+    Info_9:
+      Name: level_21_23
+      Dependencies: {}
+    Info_10:
+      Name: level_33_35
+      Dependencies: {}
+    Info_11:
+      Name: level_30_32
+      Dependencies: {}
+    Info_12:
+      Name: level_3_5
+      Dependencies: {}
+    Info_13:
+      Name: level_45_47
+      Dependencies: {}
+    Info_14:
+      Name: level_48_50
+      Dependencies: {}
+    Info_15:
+      Name: level_27_29
+      Dependencies: {}
+    Info_16:
+      Name: level_2
+      Dependencies: {}

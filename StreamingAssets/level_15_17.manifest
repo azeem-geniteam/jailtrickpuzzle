@@ -1,0 +1,110 @@
+ManifestFileVersion: 0
+CRC: 4184522869
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 97d8a5f56ee7fbe72528267d2e28fc02
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2546f18f17d9b1d09b250e457e42d845
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 97d8a5f56ee7fbe72528267d2e28fc02
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 58
+  Script: {instanceID: 0}
+- Class: 61
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: ef70056edda1b4d4da45260b5ea5c4e2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0c74ed18d1411e24387adfb41f362536, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a70897c6dc0f3e041a1eeb09f8433049, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 57c008f954fe54a8bb972de1018a2cb8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 51e12d46151dcaa47bdb529fa3da0860, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b18c537a5d608ef4fb41f9515e19152e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 097b551f2844b054290f18a39bf892e9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 30ae93fb156fc6d4c828c64571fc3edd, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: cba68f3a5ec4e0045a29053df5c662da, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4d0390bd8b8ffd640b34fe25065ff1df, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e312c2ca3e6eedf45afefedefa698ea5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e383d4ee37deae54182fc717c8e9f050, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 555acc87c6efd074b9ffe47e018b1fb7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 89476f5cb4792484ebe862f88cc3e6f7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 084bda1c1034bd94d8f7716f25924ae8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ad86b88d0b9f9954884f258a5c1e79d9, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 241
+  Script: {instanceID: 0}
+- Class: 243
+  Script: {instanceID: 0}
+- Class: 245
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: AYellowpaper.SerializedCollections
+  ClassName: AYellowpaper.SerializedCollections.SerializedDictionary`2[GenITeam.SchoolPuzzle.Levels.Level_56.ItemType,UnityEngine.GameObject]
+- AssemblyName: AYellowpaper.SerializedCollections
+  ClassName: AYellowpaper.SerializedCollections.SerializedKeyValuePair`2[GenITeam.SchoolPuzzle.Levels.Level_56.ItemType,UnityEngine.GameObject]
+- AssemblyName: Unity.2D.IK.Runtime
+  ClassName: UnityEngine.U2D.IK.IKChain2D
+- AssemblyName: Unity.2D.IK.Runtime
+  ClassName: UnityEngine.U2D.IK.IKManager2D/SolverEditorData
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.ArgumentCache
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentListenerMode
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.UnityEvent
+Assets:
+- Assets/WebGLUpdate/Levels/16.prefab
+- Assets/WebGLUpdate/Levels/56.prefab
+- Assets/WebGLUpdate/Levels/10.prefab
+Dependencies: []

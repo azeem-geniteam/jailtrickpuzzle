@@ -1,0 +1,88 @@
+ManifestFileVersion: 0
+CRC: 668456774
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3acb4d83ad904050ff3893a2f61dec84
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e20563bac82baa1d413d775c3c9adad4
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 3acb4d83ad904050ff3893a2f61dec84
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 58
+  Script: {instanceID: 0}
+- Class: 61
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: ef70056edda1b4d4da45260b5ea5c4e2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0c74ed18d1411e24387adfb41f362536, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a70897c6dc0f3e041a1eeb09f8433049, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b18c537a5d608ef4fb41f9515e19152e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 470ef5b3ce859514ebd24b057312e06d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f3a25e05d14532148b0f794d798a05a8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a8b48b052b7a24749bfe0ac9526e5851, type: 3}
+- Class: 114
+  Script: {fileID: 40306178, guid: aa0b1eebb5db27a419fa4564bbe5c9c5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: cba68f3a5ec4e0045a29053df5c662da, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4d0390bd8b8ffd640b34fe25065ff1df, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e312c2ca3e6eedf45afefedefa698ea5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 89476f5cb4792484ebe862f88cc3e6f7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ad86b88d0b9f9954884f258a5c1e79d9, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.ArgumentCache
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentListenerMode
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.UnityEvent
+Assets:
+- Assets/WebGLUpdate/Levels/6.prefab
+- Assets/WebGLUpdate/Levels/54.prefab
+- Assets/WebGLUpdate/Levels/7.prefab
+Dependencies: []
