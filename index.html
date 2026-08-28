@@ -42,33 +42,33 @@
     // banner/ribbon for a few seconds, or a permanent error message on top 
     // of the canvas if type=='error'.
     function unityShowBanner(msg, type) {
-      // function updateBannerVisibility() {
-      //   warningBanner.style.display = warningBanner.children.length ? 'block' : 'none';
-      // }
-      // var div = document.createElement('div');
-      // div.innerHTML = msg;
-      // warningBanner.appendChild(div);
-      // if (type == 'error') div.style = 'background: red; padding: 10px;';
-      // else {
-      //   if (type == 'warning') div.style = 'background: yellow; padding: 10px;';
-      //   setTimeout(function() {
-      //     warningBanner.removeChild(div);
-      //     updateBannerVisibility();
-      //   }, 5000);
-      // }
-      // updateBannerVisibility();
+       function updateBannerVisibility() {
+         warningBanner.style.display = warningBanner.children.length ? 'block' : 'none';
+       }
+       var div = document.createElement('div');
+       div.innerHTML = msg;
+       warningBanner.appendChild(div);
+       if (type == 'error') div.style = 'background: red; padding: 10px;';
+       else {
+         if (type == 'warning') div.style = 'background: yellow; padding: 10px;';
+         setTimeout(function() {
+           warningBanner.removeChild(div);
+           updateBannerVisibility();
+         }, 5000);
+       }
+       updateBannerVisibility();
     }
 
     var buildUrl = "Build";
     var loaderUrl = buildUrl + "/cee3bfd5589651a8b16e2a12b8abe5b3.loader.js";
     var config = {
-      dataUrl: buildUrl + "/b6866fc70753fc5d66bb8d4562a91815.data.unityweb",
+      dataUrl: buildUrl + "/99d7df97573c2bdb2e430d8506ba4f26.data.unityweb",
       frameworkUrl: buildUrl + "/0a63d13a110c47e3e8e68c630be994b6.framework.js.unityweb",
         codeUrl: buildUrl + "/165926ca22b15de5e0d1743b7ddd2780.wasm.unityweb",
       streamingAssetsUrl: "StreamingAssets",
       companyName: "DefaultCompany",
       productName: "JailBreak Tricky Brain Puzzle",
-      productVersion: "1.2",
+      productVersion: "1.0",
       showBanner: unityShowBanner,
     };
 
@@ -91,7 +91,7 @@
 
       // To lower canvas resolution on mobile devices to gain some
       // performance, uncomment the following line:
-      // config.devicePixelRatio = 1;
+      config.devicePixelRatio = 1;
 
     } else {
       // Desktop style: Render the game canvas in a window that can be maximized to fullscreen:
@@ -228,6 +228,7 @@
             unityGameInstance = unityInstance;
             loadingBar.style.display = "none";
           }).catch((message) => {
+		unityShowBanner(message,'error');
             console.error(message);
           });
       };
